@@ -101,6 +101,7 @@ sourcedir_index_mapping = {
     'kape': 'filesystem',
     'kape': 'evtxfiles',
     'microsoft365': 'microsoft365',
+    'office365csv': 'office365csv',
     'kubernetes': 'kubernetes',
 }
 # automatically create the reverse dictionary
