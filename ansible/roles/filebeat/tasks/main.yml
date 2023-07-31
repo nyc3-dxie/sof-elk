@@ -42,6 +42,7 @@
     - aws
     - gcp
     - gws
+    - office365csv
   notify: restart filebeat
   tags: sof-elk_filebeat
 
