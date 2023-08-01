@@ -1,0 +1,19 @@
+{
+  "data_view": {
+    "allowNoIndex": false,
+    "fieldFormats": {
+      "@timestamp": {
+        "id": "date",
+        "params": {
+          "pattern": "YYYY-MM-DD HH:mm:ss.SSS\\Z"
+        }
+      }
+    },
+    "id": "office365csv",
+    "name": "office365csv-*",
+    "sourceFilters": [],
+    "timeFieldName": "@timestamp",
+    "title": "office365csv-*",
+    "typeMeta": {}
+  }
+}
